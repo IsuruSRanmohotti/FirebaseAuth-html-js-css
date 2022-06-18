@@ -1,11 +1,4 @@
-# auth-implemented
-## Adding additional profile information
 
-Two additional informations can be added to the user information as follows:
-#### 1. Display Name
-To add full name or any name for the purpose of displaying in the application.
-#### 2. Photo URL
-To add the url of the photo that can be used as profile picture.
 
 ### Below is the javascript code to add additional information.
 
